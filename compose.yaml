@@ -8,7 +8,7 @@ services:
       PASSWORD: "12345678"
       RAM_SIZE: "8G"
       CPU_CORES: "4"
-      DISK_SIZE: "15G"
+      DISK_SIZE: "65G"
     devices:
       - /dev/kvm
       - /dev/net/tun
